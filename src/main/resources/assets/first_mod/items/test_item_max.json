@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "first_mod:item/test_item_max"
+  }
+}

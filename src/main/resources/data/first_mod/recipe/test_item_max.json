@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " o ",
+    "#D#",
+    " # "
+  ],
+  "key": {
+    "o": "minecraft:diamond",
+    "#": "minecraft:gold_ingot",
+    "D": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "first_mod:test_item_max"
+  }
+}

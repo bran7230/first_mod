@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " o ",
+    "#.#",
+    " # "
+  ],
+  "key": {
+    "o": "minecraft:emerald",
+    "#": "minecraft:gold_ingot",
+    ".": "minecraft:redstone"
+  },
+  "result": {
+    "id": "first_mod:test_item_up1"
+  }
+}

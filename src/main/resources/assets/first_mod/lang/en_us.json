@@ -1,0 +1,8 @@
+{
+  "item.first_mod.test_item": "Mk. I Impact Drill",
+  "item.first_mod.test_item_up1" : "Mk. II Fracture Drill",
+  "item.first_mod.test_item_max" : "Mk. III Leviathan Extractor",
+  "item.first_mod.drill.tooltip.line1" : "Hold Right click to instantly",
+  "item.first_mod.drill.tooltip.line2" : "mine a massive area!(Beware of fall damage).",
+  "item.first_mod.drill.tooltip.stat_lines" : "Range: %1$s, Depth: %2$s, Durability: %3$s"
+}

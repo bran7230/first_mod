@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "first_mod:test_item",
+    "first_mod:test_item_up1",
+    "first_mod:test_item_max"
+  ]
+}
