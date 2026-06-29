@@ -108,7 +108,7 @@ public class Drill extends Item{
                        }
                        // still check, might be useless
                        if(state.getBlock() == Blocks.BEDROCK || state.getBlock() == Blocks.OBSIDIAN || state.getBlock() == Blocks.END_PORTAL
-                       || state.getBlock() == Blocks.END_PORTAL || state.getBlock() == Blocks.ANCIENT_DEBRIS || state.getBlock() == Blocks.RESPAWN_ANCHOR) {
+                       || state.getBlock() == Blocks.END_PORTAL_FRAME || state.getBlock() == Blocks.ANCIENT_DEBRIS || state.getBlock() == Blocks.RESPAWN_ANCHOR) {
                            continue;
                        }
 
